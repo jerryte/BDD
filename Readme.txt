@@ -1,0 +1,31 @@
+﻿；鏈接更新時間：每個月第二個星期的星期三或星期四，即比windows的更新時間推遲一兩天左右。
+
+; 2022-03 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总--Security Monthly Quality Rollup
+_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x64_5a580cee56603bc7e278f24bbc1e28fed7ab1f71.msu
+
+; 2022-03 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总--Security Monthly Quality Rollup
+_8.1x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x86_beee60d763ec3b4d40f7dd395d6a574b20efc96e.msu
+
+; 2022-03 适用于 Windows 8.1 基于 x64 系统的仅安全更新--Security Only Quality Update
+_only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x64_878c623a64cec1be862f63c03f0a644e088949af.msu
+
+; 2022-03 适用于 Windows 8.1 基于 x86 系统的仅安全更新--Security Only Quality Update
+_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x86_344145efea500ddb5586f3d6c6accb54aad409c7.msu
+
+; 2022-03 Windows 10 1809 基于 x64 系统的累计更新--Cumulative Update
+_1809x64=http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/03/windows10.0-kb5011551-x64_b0aef309241e737515d0ffbc26582206f0b970cc.msu
+
+; 2022-03 Windows 10 1809 基于 x86 系统的累计更新--Cumulative Update
+_1809x32=http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/03/windows10.0-kb5011551-x86_9e8e5fa9f40c9f21bd5dac4eff0f9afba265c15f.msu
+
+; 2022-03 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统--Cumulative Update
+_21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/03/windows10.0-kb5011543-x64_1c97e86392f8e18fe415630f60608a9091f28bbd.msu
+
+; 2022-03 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统--Cumulative Update
+_21H2x32=http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/03/windows10.0-kb5011543-x86_1efdf4a5f31aab995eaddf51cab2a5ec48f66023.msu
+
+; 2022-03 适用于 Windows 10 Version 1607 的累积更新，适合基于 x64 的系统--Cumulative Update
+_1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows10.0-kb5011495-x64_5687d125f32cb1b43ad1c2dafb6d159b47f4d9bd.msu
+
+; 2022-03 适用于 Windows 10 Version 1607 的累积更新，适合基于 x86 的系统--Cumulative Update
+_1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows10.0-kb5011495-x86_f275c41b70004653d97499963fc1ae453f6ba577.msu

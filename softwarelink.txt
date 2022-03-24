@@ -1,0 +1,86 @@
+﻿;  文本最後編輯日期：2022-3-20
+；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
+
+;--------------------------  代理軟件  --------------------
+
+;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-3-16
+32位
+https://dist.torproject.org/torbrowser/11.0.9/tor-win32-0.4.6.10.zip
+64位
+https://dist.torproject.org/torbrowser/11.0.9/tor-win64-0.4.6.10.zip
+
+
+;名稱：v2ray-core                    最新版本號：v4.44.0                更新時間：2021-12-5
+32位
+https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-32.zip
+64位
+https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-64.zip
+
+
+;名稱：Xray-core                      最新版本號：v1.5.4                  更新時間：2022-3-13
+32位
+https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-32.zip
+64位
+https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-64.zip
+
+
+;名稱：v2rayN                           最新版本號：4.36                    更新時間：2022-3-8
+https://github.com/2dust/v2rayN/releases/download/4.36/v2rayN.zip
+
+
+;名稱：Clash.for.Windows          最新版本號：v 0.19.12            更新時間：2022-3-10
+32位
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.12/Clash.for.Windows-0.19.12-ia32-win.7z
+64位
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.12/Clash.for.Windows-0.19.12-win.7z
+中文翻譯包
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.12_CN/app.7z
+
+
+;名稱：naiveproxy             最新版本號：v99.0.4844.51-1          更新時間：2022-3-2
+32位
+https://github.com/klzgrad/naiveproxy/releases/download/v99.0.4844.51-1/naiveproxy-v99.0.4844.51-1-win-x86.zip
+64位
+https://github.com/klzgrad/naiveproxy/releases/download/v99.0.4844.51-1/naiveproxy-v99.0.4844.51-1-win-x64.zip
+
+
+;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
+32位
+https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windows-386.zip
+64位
+https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windows-amd64.zip
+
+
+;名稱：ssr-native               最新版本號：Version 0.9.2                更新時間：2021-12-17
+32位
+https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.2/ssr-native-windows-x86.zip
+64位
+https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.2/ssr-native-windows-x64.zip
+
+
+;名稱：Privoxy                   最新版本號：3.0.33                           更新時間：2021-12-8
+https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.zip
+
+
+;===============  應用軟件  =============
+
+;名稱：FDM                   最新版本號：v6.16.0                更新時間：2022-2-18
+32位
+https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
+64位
+https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
+
+
+;名稱：KeePass              最新版本號：2.50                    更新時間：2022-1-9
+https://iweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.50/KeePass-2.50.zip
+
+
+;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
+https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt Setup 1.25.9.exe
+
+
+;名稱：7-Zip                   最新版本號：21.07                 更新時間：2021-12-26
+32位
+https://7-zip.org/a/7z2107.exe
+64位
+https://7-zip.org/a/7z2107-x64.exe
