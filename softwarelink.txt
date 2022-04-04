@@ -1,4 +1,4 @@
-﻿;  文本最後編輯日期：2022-3-20
+;  文本最後編輯日期：2022-4-4
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;--------------------------  代理軟件  --------------------
@@ -24,24 +24,24 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-32.zip
 https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-64.zip
 
 
-;名稱：v2rayN                           最新版本號：4.36                    更新時間：2022-3-8
-https://github.com/2dust/v2rayN/releases/download/4.36/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.9                    更新時間：2022-4-1
+https://github.com/2dust/v2rayN/releases/download/5.9/v2rayN.zip
 
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.12            更新時間：2022-3-10
+;名稱：Clash.for.Windows          最新版本號：v 0.19.14            更新時間：2022-4-1
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.12/Clash.for.Windows-0.19.12-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.14/Clash.for.Windows-0.19.14-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.12/Clash.for.Windows-0.19.12-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.14/Clash.for.Windows-0.19.14-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.12_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.14_CN/app.7z
 
 
-;名稱：naiveproxy             最新版本號：v99.0.4844.51-1          更新時間：2022-3-2
+;名稱：naiveproxy             最新版本號：v100.0.4896.60-1          更新時間：2022-3-30
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v99.0.4844.51-1/naiveproxy-v99.0.4844.51-1-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v100.0.4896.60-1/naiveproxy-v100.0.4896.60-1-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v99.0.4844.51-1/naiveproxy-v99.0.4844.51-1-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v100.0.4896.60-1/naiveproxy-v100.0.4896.60-1-win-x64.zip
 
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
