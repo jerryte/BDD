@@ -1,13 +1,13 @@
-;  文本最後編輯日期：2022-4-4
+;  文本最後編輯日期：2022-4-13
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;--------------------------  代理軟件  --------------------
 
-;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-3-16
+;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-4-6
 32位
-https://dist.torproject.org/torbrowser/11.0.9/tor-win32-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.10/tor-win32-0.4.6.10.zip
 64位
-https://dist.torproject.org/torbrowser/11.0.9/tor-win64-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.10/tor-win64-0.4.6.10.zip
 
 
 ;名稱：v2ray-core                    最新版本號：v4.44.0                更新時間：2021-12-5
@@ -28,13 +28,13 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-64.zip
 https://github.com/2dust/v2rayN/releases/download/5.9/v2rayN.zip
 
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.14            更新時間：2022-4-1
+;名稱：Clash.for.Windows          最新版本號：v 0.19.15            更新時間：2022-4-9
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.14/Clash.for.Windows-0.19.14-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.15/Clash.for.Windows-0.19.15-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.14/Clash.for.Windows-0.19.14-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.15/Clash.for.Windows-0.19.15-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.14_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.15_CN/app.7z
 
 
 ;名稱：naiveproxy             最新版本號：v100.0.4896.60-1          更新時間：2022-3-30
@@ -64,7 +64,7 @@ https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.
 
 ;===============  應用軟件  =============
 
-;名稱：FDM                   最新版本號：v6.16.0                更新時間：2022-2-18
+;名稱：FDM                   最新版本號：v6.16.1                更新時間：2022-4-5
 32位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
