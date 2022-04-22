@@ -13,10 +13,10 @@ _only_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/so
 _only_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x86_28a97cb492766a5eb93b85c2d1b5d07875d7d223.msu
 
 ; 2022-04 Windows 10 1809 基于 x64 系统的累计更新--Cumulative Update
-_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x64_546889f367caf2a1edd79f5db7d8507e7a53e31b.msu
+_1809x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/04/windows10.0-kb5012636-x64_e420dc2df57359d8091ed3ae81c66ebbbcf757a4.msu
 
 ; 2022-04 Windows 10 1809 基于 x86 系统的累计更新--Cumulative Update
-_1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x86_35bd0bbe02b7ecfad0ce7e09946f780dcd142f15.msu
+_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/04/windows10.0-kb5012636-x86_dec523b187f6507802b1feca46e6d7240c086f4f.msu
 
 ; 2022-04 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统--Cumulative Update
 _21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_6970f4ed6a7073ac45fa77ccbb6d261cb88ebe40.cab
