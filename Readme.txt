@@ -1,7 +1,7 @@
 ；鏈接更新時間：每個月第二個星期的星期三或星期四，即比windows的更新時間推遲一兩天左右。
 
 ; 2022-04 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总--Security Monthly Quality Rollup
-_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
+_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
 
 ; 2022-04 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总--Security Monthly Quality Rollup
 _8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
