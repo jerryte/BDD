@@ -1,13 +1,13 @@
-;  文本最後編輯日期：2022-4-22
+;  文本最後編輯日期：2022-5-7
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;--------------------------  代理軟件  --------------------
 
-;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-4-6
+;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-4-30
 32位
-https://dist.torproject.org/torbrowser/11.0.10/tor-win32-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.11/tor-win32-0.4.6.10.zip
 64位
-https://dist.torproject.org/torbrowser/11.0.10/tor-win64-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.11/tor-win64-0.4.6.10.zip
 
 
 ;名稱：v2ray-core                    最新版本號：v4.44.0                更新時間：2021-12-5
@@ -17,31 +17,31 @@ https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-32.z
 https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-64.zip
 
 
-;名稱：Xray-core                      最新版本號：v1.5.4                  更新時間：2022-3-13
+;名稱：Xray-core                      最新版本號：v1.5.5                  更新時間：2022-4-24
 32位
-https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-32.zip
+https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
-https://github.com/XTLS/Xray-core/releases/download/v1.5.4/Xray-windows-64.zip
+https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
 
 ;名稱：v2rayN                           最新版本號：5.16                    更新時間：2022-4-14
 https://github.com/2dust/v2rayN/releases/download/5.16/v2rayN.zip
 
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.16            更新時間：2022-4-21
+;名稱：Clash.for.Windows          最新版本號：v 0.19.17            更新時間：2022-4-29
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.16/Clash.for.Windows-0.19.15-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.17/Clash.for.Windows-0.19.17-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.16/Clash.for.Windows-0.19.15-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.17/Clash.for.Windows-0.19.17-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.16_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.17_CN/app.7z
 
 
-;名稱：naiveproxy             最新版本號：v100.0.4896.60-1          更新時間：2022-3-30
+;名稱：naiveproxy             最新版本號：v101.0.4951.41-1          更新時間：2022-5-2
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v100.0.4896.60-1/naiveproxy-v100.0.4896.60-1-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v101.0.4951.41-1/naiveproxy-v101.0.4951.41-1-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v100.0.4896.60-1/naiveproxy-v100.0.4896.60-1-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v101.0.4951.41-1/naiveproxy-v101.0.4951.41-1-win-x64.zip
 
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
@@ -60,6 +60,13 @@ https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.2
 
 ;名稱：Privoxy                   最新版本號：3.0.33                           更新時間：2021-12-8
 https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.zip
+
+
+;名稱：.net 5.0                   最新版本號：5.0.16                           更新時間：2022-4-4
+32位
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2022/04/windowsdesktop-runtime-5.0.16-win-x86_36c7399621b778d0fb49d4d4ac24e8e80f63dc87.exe
+64位
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2022/04/windowsdesktop-runtime-5.0.16-win-x64_288234d1e65ce3f926cd06983bec98acc16cd575.exe
 
 
 ;===============  應用軟件  =============
