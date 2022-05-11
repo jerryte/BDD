@@ -1,31 +1,31 @@
 ；鏈接更新時間：每個月第二個星期的星期三或星期四，即比windows的更新時間推遲一兩天左右。
 
-; 2022-04 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总--Security Monthly Quality Rollup
-_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
+; 2022-05 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总--Security Monthly Quality Rollup
+_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总--Security Monthly Quality Rollup
-_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总--Security Monthly Quality Rollup
+_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x64 系统的仅安全更新--Security Only Quality Update
-_only_8.1x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x64_3a6168057b11b31200c4ad9eb7cd268829e7e3be.msu
+; 2022-05 适用于 Windows 8.1 基于 x64 系统的仅安全更新--Security Only Quality Update
+_only_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014001-x64_78a3e7e7a7c0a563c217156cca0a4cd55d770064.msu
 
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的仅安全更新--Security Only Quality Update
-_only_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x86_28a97cb492766a5eb93b85c2d1b5d07875d7d223.msu
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的仅安全更新--Security Only Quality Update
+_only_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014001-x86_3171465efc98113734398b6caa29748a9124d097.msu
 
-; 2022-04 Windows 10 1809 基于 x64 系统的累计更新--Cumulative Update
-_1809x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/04/windows10.0-kb5012636-x64_e420dc2df57359d8091ed3ae81c66ebbbcf757a4.msu
+; 2022-05 Windows 10 1809 基于 x64 系统的累计更新--Cumulative Update
+_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
 
-; 2022-04 Windows 10 1809 基于 x86 系统的累计更新--Cumulative Update
-_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/04/windows10.0-kb5012636-x86_dec523b187f6507802b1feca46e6d7240c086f4f.msu
+; 2022-05 Windows 10 1809 基于 x86 系统的累计更新--Cumulative Update
+_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
 
-; 2022-04 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统--Cumulative Update
-_21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_6970f4ed6a7073ac45fa77ccbb6d261cb88ebe40.cab
+; 2022-05 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x64 的系统--Cumulative Update
+_21H2x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_6dc7730c205a77a68542e68a70e683b079662226.msu
 
-; 2022-04 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统--Cumulative Update
-_21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x86_97465210b3746a3b15775502ef742c81a559690b.cab
+; 2022-05 适用于 Windows 10 Version 21H2 的累积更新，适合基于 x86 的系统--Cumulative Update
+_21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_0f75e54848366a2669827a2855a47c13035c24d3.msu
 
-; 2022-04 适用于 Windows 10 Version 1607 的累积更新，适合基于 x64 的系统--Cumulative Update
-_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012596-x64_af3466a508184a5c1cb62cd6767a0bd2c66ddf01.msu
+; 2022-05 适用于 Windows 10 Version 1607 的累积更新，适合基于 x64 的系统--Cumulative Update
+_1607x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
 
-; 2022-04 适用于 Windows 10 Version 1607 的累积更新，适合基于 x86 的系统--Cumulative Update
-_1607x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012596-x86_59e0c3e402a5088a407894da98c7e9b87a69f20a.msu
+; 2022-05 适用于 Windows 10 Version 1607 的累积更新，适合基于 x86 的系统--Cumulative Update
+_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu
