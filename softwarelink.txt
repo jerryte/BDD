@@ -1,4 +1,4 @@
-;  文本最後編輯日期：2022-5-7
+;  文本最後編輯日期：2022-5-20
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;--------------------------  代理軟件  --------------------
@@ -24,17 +24,17 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
 
-;名稱：v2rayN                           最新版本號：5.16                    更新時間：2022-4-14
-https://github.com/2dust/v2rayN/releases/download/5.16/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.23                    更新時間：2022-5-6
+https://github.com/2dust/v2rayN/releases/download/5.23/v2rayN.zip
 
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.17            更新時間：2022-4-29
+;名稱：Clash.for.Windows          最新版本號：v 0.19.19            更新時間：2022-5-13
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.17/Clash.for.Windows-0.19.17-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.19/Clash.for.Windows-0.19.19-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.17/Clash.for.Windows-0.19.17-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.19/Clash.for.Windows-0.19.19-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.17_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.18_CN/app.7z
 
 
 ;名稱：naiveproxy             最新版本號：v101.0.4951.41-1          更新時間：2022-5-2
@@ -51,11 +51,11 @@ https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windo
 https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windows-amd64.zip
 
 
-;名稱：ssr-native               最新版本號：Version 0.9.2                更新時間：2021-12-17
+;名稱：ssr-native               最新版本號：Version 0.9.3                更新時間：2022-5-19
 32位
-https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.2/ssr-native-windows-x86.zip
+https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x86.zip
 64位
-https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.2/ssr-native-windows-x64.zip
+https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x64.zip
 
 
 ;名稱：Privoxy                   最新版本號：3.0.33                           更新時間：2021-12-8
@@ -78,8 +78,8 @@ https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
 
 
-;名稱：KeePass              最新版本號：2.50                    更新時間：2022-1-9
-https://iweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.50/KeePass-2.50.zip
+;名稱：KeePass              最新版本號：2.51.1                    更新時間：2022-5-10
+https://versaweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51.1/KeePass-2.51.1.zip
 
 
 ;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
