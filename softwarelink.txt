@@ -62,16 +62,16 @@ https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3
 https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.zip
 
 
-;名稱：.net 5.0                   最新版本號：5.0.16                           更新時間：2022-4-4
+;名稱：.net 5.0                   最新版本號：5.0.17                           更新時間：2022-5-3
 32位
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2022/04/windowsdesktop-runtime-5.0.16-win-x86_36c7399621b778d0fb49d4d4ac24e8e80f63dc87.exe
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x86_c08f0756ecfb9eb37be40ceec8b37cd419f560de.exe
 64位
-https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2022/04/windowsdesktop-runtime-5.0.16-win-x64_288234d1e65ce3f926cd06983bec98acc16cd575.exe
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x64_ada18515ed1ae9917e86062b3556f9fbbbeda7ba.exe
 
 
 ;===============  應用軟件  =============
 
-;名稱：FDM                   最新版本號：v6.16.1                更新時間：2022-4-5
+;名稱：FDM                   最新版本號：v6.16.2                更新時間：2022-5-18
 32位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
