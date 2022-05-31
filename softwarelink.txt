@@ -1,20 +1,20 @@
-;  文本最後編輯日期：2022-5-20
+;  文本最後編輯日期：2022-5-31
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;--------------------------  代理軟件  --------------------
 
-;名稱：tor內核                 最新版本號：0.4.6.10                        更新時間：2022-4-30
+;名稱：tor內核                 最新版本號：0.4.7.7                        更新時間：2022-5-23
 32位
-https://dist.torproject.org/torbrowser/11.0.11/tor-win32-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.13/tor-win32-0.4.7.7.zip
 64位
-https://dist.torproject.org/torbrowser/11.0.11/tor-win64-0.4.6.10.zip
+https://dist.torproject.org/torbrowser/11.0.13/tor-win64-0.4.7.7.zip
 
 
-;名稱：v2ray-core                    最新版本號：v4.44.0                更新時間：2021-12-5
+;名稱：v2ray-core                    最新版本號：v4.45.0                更新時間：2022-4-29
 32位
-https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-32.zip
+https://github.com/v2fly/v2ray-core/releases/download/v4.45.0/v2ray-windows-32.zip
 64位
-https://github.com/v2fly/v2ray-core/releases/download/v4.44.0/v2ray-windows-64.zip
+https://github.com/v2fly/v2ray-core/releases/download/v4.45.0/v2ray-windows-64.zip
 
 
 ;名稱：Xray-core                      最新版本號：v1.5.5                  更新時間：2022-4-24
@@ -34,14 +34,14 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.19/Clash
 64位
 https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.19/Clash.for.Windows-0.19.19-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.18_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.19_CN/app.7z
 
 
-;名稱：naiveproxy             最新版本號：v101.0.4951.41-1          更新時間：2022-5-2
+;名稱：naiveproxy             最新版本號：v102.0.5005.61-1          更新時間：2022-5-29
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v101.0.4951.41-1/naiveproxy-v101.0.4951.41-1-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v101.0.4951.41-1/naiveproxy-v101.0.4951.41-1-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x64.zip
 
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
