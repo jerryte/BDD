@@ -79,6 +79,31 @@ https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 
 
+;名稱：FDM                   最新版本號：v6.16.2              更新時間：2022-5-18
+32位
+https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
+64位
+https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
+
+
+;名稱：aria2                     最新版本號：1.36.0                           更新時間：2021-8-21
+32位
+https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-32bit-build1.zip
+64位
+https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip
+
+
+;名稱：wget                     最新版本號：1.21.3                           更新時間：2022-3-12
+32位
+https://eternallybored.org/misc/wget/1.21.3/32/wget.exe
+64位
+https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
+
+
+;名稱：ffmpeg                                                                         更新時間：2022-06-16
+https://github.com/GyanD/codexffmpeg/releases/download/2022-06-16-git-5242ede48d/ffmpeg-2022-06-16-git-5242ede48d-full_build.7z
+
+
 ;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
 32位
 https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x86_c08f0756ecfb9eb37be40ceec8b37cd419f560de.exe
@@ -87,13 +112,6 @@ https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2
 
 
 ;===============  應用軟件  =============
-
-;名稱：FDM                   最新版本號：v6.16.2              更新時間：2022-5-18
-32位
-https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
-64位
-https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
-
 
 ;名稱：GPG4win            最新版本號：4.0.2                  更新時間：2022-4-26
 https://files.gpg4win.org/gpg4win-4.0.2.exe
