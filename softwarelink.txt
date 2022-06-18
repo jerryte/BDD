@@ -1,7 +1,7 @@
 ;  文本最後編輯日期：2022-6-18
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
-;--------------------------  代理軟件  --------------------
+;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
 
 ;名稱：tor內核                 最新版本號：0.4.7.7                        更新時間：2022-5-23
 32位
@@ -9,13 +9,11 @@ https://dist.torproject.org/torbrowser/11.0.14/tor-win32-0.4.7.7.zip
 64位
 https://dist.torproject.org/torbrowser/11.0.14/tor-win64-0.4.7.7.zip
 
-
 ;名稱：v2ray-core                    最新版本號：v4.45.2                更新時間：2022-6-12
 32位
 https://github.com/v2fly/v2ray-core/releases/download/v4.45.2/v2ray-windows-32.zip
 64位
 https://github.com/v2fly/v2ray-core/releases/download/v4.45.2/v2ray-windows-64.zip
-
 
 ;名稱：Xray-core                      最新版本號：v1.5.5                  更新時間：2022-4-24
 32位
@@ -23,10 +21,8 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-
 ;名稱：v2rayN                           最新版本號：5.23                    更新時間：2022-5-6
 https://github.com/2dust/v2rayN/releases/download/5.23/v2rayN.zip
-
 
 ;名稱：Clash.for.Windows          最新版本號：v 0.19.21            更新時間：2022-6-17
 32位
@@ -36,13 +32,11 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.21/Clash
 中文翻譯包
 https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.21_CN/app.7z
 
-
 ;名稱：naiveproxy             最新版本號：v102.0.5005.61-1          更新時間：2022-5-29
 32位
 https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x86.zip
 64位
 https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x64.zip
-
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
 32位
@@ -50,13 +44,11 @@ https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windo
 64位
 https://github.com/p4gefau1t/trojan-go/releases/download/v0.10.6/trojan-go-windows-amd64.zip
 
-
 ;名稱：ssr-native               最新版本號：Version 0.9.3                更新時間：2022-5-19
 32位
 https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x86.zip
 64位
 https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x64.zip
-
 
 ;名稱：gost                      最新版本號：v2.11.2                更新時間：2022-4-7
 32位
@@ -64,28 +56,33 @@ https://github.com/ginuerzh/gost/releases/download/v2.11.2/gost-windows-386-2.11
 64位
 https://github.com/ginuerzh/gost/releases/download/v2.11.2/gost-windows-amd64-2.11.2.zip
 
-
 ;名稱：Privoxy                   最新版本號：3.0.33                           更新時間：2021-12-8
 https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.zip
 
-
-;名稱：fg（自由門）         最新版本號：7.97          更新時間：2021-7-17
+;名稱：fg（自由門）     最新版本號：7.97          更新時間：2021-7-17
 專業版
 https://dongtaiwang.com/loc/software/fg/797/fg797p.exe
 限制版
 https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 
-
-;名稱：usf（無界）          最新版本號：21.32         更新時間：2021-7-10
+;名稱：usf（無界）       最新版本號：21.32         更新時間：2021-7-10
 https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 
+;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
+32位
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x86_c08f0756ecfb9eb37be40ceec8b37cd419f560de.exe
+64位
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x64_ada18515ed1ae9917e86062b3556f9fbbbeda7ba.exe
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-;名稱：FDM          最新版本號：v6.16.2          更新時間：2022-5-18
+
+;++++++++++++++++++++++++++++++++++++++++  下載工具  ++++++++++++++++++++++++++++++++++++++++
+
+;名稱：FDM                最新版本號：v6.16.2         更新時間：2022-5-18
 32位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
-
 
 ;名稱：aria2                     最新版本號：1.36.0                           更新時間：2021-8-21
 32位
@@ -93,38 +90,30 @@ https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win
 64位
 https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip
 
-
 ;名稱：wget                     最新版本號：1.21.3                           更新時間：2022-3-12
 32位
 https://eternallybored.org/misc/wget/1.21.3/32/wget.exe
 64位
 https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
 
-
 ;名稱：ffmpeg                                                                         更新時間：2022-06-16
 https://github.com/GyanD/codexffmpeg/releases/download/2022-06-16-git-5242ede48d/ffmpeg-2022-06-16-git-5242ede48d-full_build.7z
 
-
-;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
-32位
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x86_c08f0756ecfb9eb37be40ceec8b37cd419f560de.exe
-64位
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x64_ada18515ed1ae9917e86062b3556f9fbbbeda7ba.exe
+;名稱：youtube-dl                                                                    更新時間：2021-12-17
+https://github.com/GyanD/codexffmpeg/releases/download/2022-06-16-git-5242ede48d/ffmpeg-2022-06-16-git-5242ede48d-full_build.7z
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-;===============  應用軟件  =============
+;=========================================  應用軟件  =========================================
 
 ;名稱：GPG4win            最新版本號：4.0.2                  更新時間：2022-4-26
 https://files.gpg4win.org/gpg4win-4.0.2.exe
 
-
 ;名稱：KeePass              最新版本號：2.51.1                更新時間：2022-5-10
 https://versaweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51.1/KeePass-2.51.1.zip
 
-
 ;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
 https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt Setup 1.25.9.exe
-
 
 ;名稱：7-Zip                   最新版本號：21.07                 更新時間：2021-12-26
 32位
