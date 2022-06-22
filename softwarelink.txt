@@ -66,7 +66,7 @@ https://dongtaiwang.com/loc/software/fg/797/fg797p.exe
 https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 
 ;名稱：usf（無界）       最新版本號：21.32         更新時間：2021-7-10
-https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
+https://ultrasurf.us/download/usf.exe
 
 ;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
 32位
@@ -100,7 +100,7 @@ https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
 https://github.com/GyanD/codexffmpeg/releases/download/2022-06-16-git-5242ede48d/ffmpeg-2022-06-16-git-5242ede48d-full_build.7z
 
 ;名稱：youtube-dl                                                                    更新時間：2021-12-17
-https://github.com/GyanD/codexffmpeg/releases/download/2022-06-16-git-5242ede48d/ffmpeg-2022-06-16-git-5242ede48d-full_build.7z
+https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
