@@ -1,4 +1,4 @@
-;  文本最後編輯日期：2022-6-18
+;  文本最後編輯日期：2022-7-1
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
@@ -21,22 +21,22 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-;名稱：v2rayN                           最新版本號：5.23                    更新時間：2022-5-6
-https://github.com/2dust/v2rayN/releases/download/5.23/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.26                    更新時間：2022-6-12
+https://github.com/2dust/v2rayN/releases/download/5.26/v2rayN.zip
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.21            更新時間：2022-6-17
+;名稱：Clash.for.Windows          最新版本號：v 0.19.23            更新時間：2022-7-1
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.21/Clash.for.Windows-0.19.21-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.23/Clash.for.Windows-0.19.23-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.21/Clash.for.Windows-0.19.21-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.23/Clash.for.Windows-0.19.23-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.21_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.23_CN/app.7z
 
-;名稱：naiveproxy             最新版本號：v102.0.5005.61-1          更新時間：2022-5-29
+;名稱：naiveproxy             最新版本號：v103.0.5060.53-2          更新時間：2022-5-29
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-2/naiveproxy-v103.0.5060.53-2-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v102.0.5005.61-1/naiveproxy-v102.0.5005.61-1-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-2/naiveproxy-v103.0.5060.53-2-win-x64.zip
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
 32位
@@ -67,6 +67,9 @@ https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 
 ;名稱：usf（無界）       最新版本號：21.32         更新時間：2021-7-10
 https://ultrasurf.us/download/usf.exe
+
+;名稱：Bitvise SSH Client         最新版本號：9.23         更新時間：
+https://dl.bitvise.com/BvSshClient-Inst.exe
 
 ;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
 32位
