@@ -29,3 +29,5 @@ _1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/softwa
 
 ; 2022-06 适用于 Windows 10 Version 1607 的累积更新，适合基于 x86 的系统--Cumulative Update
 _1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014702-x86_1a4d4017a798d7ace9e413490dd673f7871a6a86.msu
+
+;https://dl.lianwifi.com/download/android/WifiKey-liantong-guanwang.apk
