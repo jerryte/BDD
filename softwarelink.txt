@@ -116,8 +116,8 @@ https://versaweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51.1/KeePass-2
 ;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
 https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt Setup 1.25.9.exe
 
-;名稱：7-Zip                   最新版本號：21.07                 更新時間：2021-12-26
+;名稱：7-Zip                   最新版本號：22.00                 更新時間：2022-6-15
 32位
-https://7-zip.org/a/7z2107.exe
+https://7-zip.org/a/7z2200.exe
 64位
-https://7-zip.org/a/7z2107-x64.exe
+https://7-zip.org/a/7z2200-x64.exe
