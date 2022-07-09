@@ -1,4 +1,4 @@
-;  文本最後編輯日期：2022-7-1
+;  文本最後編輯日期：2022-7-8
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
@@ -21,8 +21,8 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-;名稱：v2rayN                           最新版本號：5.26                    更新時間：2022-6-12
-https://github.com/2dust/v2rayN/releases/download/5.26/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.29                    更新時間：2022-7-3
+https://github.com/2dust/v2rayN/releases/download/5.29/v2rayN.zip
 
 ;名稱：Clash.for.Windows          最新版本號：v 0.19.23            更新時間：2022-7-1
 32位
