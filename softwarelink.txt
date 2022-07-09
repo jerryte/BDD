@@ -3,11 +3,11 @@
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
 
-;名稱：tor內核                 最新版本號：0.4.7.7                        更新時間：2022-5-23
+;名稱：tor內核                 最新版本號：0.4.7.8                        更新時間：2022-6-30
 32位
-https://dist.torproject.org/torbrowser/11.0.14/tor-win32-0.4.7.7.zip
+https://dist.torproject.org/torbrowser/11.0.15/tor-win32-0.4.7.8.zip
 64位
-https://dist.torproject.org/torbrowser/11.0.14/tor-win64-0.4.7.7.zip
+https://dist.torproject.org/torbrowser/11.0.15/tor-win64-0.4.7.8.zip
 
 ;名稱：v2ray-core                    最新版本號：v4.45.2                更新時間：2022-6-12
 32位
@@ -32,11 +32,11 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.23/Clash
 中文翻譯包
 https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.23_CN/app.7z
 
-;名稱：naiveproxy             最新版本號：v103.0.5060.53-2          更新時間：2022-5-29
+;名稱：naiveproxy             最新版本號：v103.0.5060.53-3          更新時間：2022-7-1
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-2/naiveproxy-v103.0.5060.53-2-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-3/naiveproxy-v103.0.5060.53-3-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-2/naiveproxy-v103.0.5060.53-2-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-3/naiveproxy-v103.0.5060.53-3-win-x64.zip
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
 32位
@@ -68,7 +68,7 @@ https://dongtaiwang.com/loc/software/fg/797/fg797r.exe
 ;名稱：usf（無界）       最新版本號：21.32         更新時間：2021-7-10
 https://ultrasurf.us/download/usf.exe
 
-;名稱：Bitvise SSH Client         最新版本號：9.23         更新時間：
+;名稱：Bitvise SSH Client         最新版本號：9.23
 https://dl.bitvise.com/BvSshClient-Inst.exe
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ https://dl.bitvise.com/BvSshClient-Inst.exe
 
 ;++++++++++++++++++++++++++++++++++++++++  下載工具  ++++++++++++++++++++++++++++++++++++++++
 
-;名稱：FDM                最新版本號：v6.16.2         更新時間：2022-5-18
+;名稱：FDM                最新版本號：v6.16.2
 32位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
