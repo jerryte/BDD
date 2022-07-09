@@ -71,11 +71,6 @@ https://ultrasurf.us/download/usf.exe
 ;名稱：Bitvise SSH Client         最新版本號：9.23         更新時間：
 https://dl.bitvise.com/BvSshClient-Inst.exe
 
-;名稱：.net 5.0                  最新版本號：5.0.17                           更新時間：2022-5-3
-32位
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x86_c08f0756ecfb9eb37be40ceec8b37cd419f560de.exe
-64位
-https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windowsdesktop-runtime-5.0.17-win-x64_ada18515ed1ae9917e86062b3556f9fbbbeda7ba.exe
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -86,6 +81,9 @@ https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe
+
+;名稱：IDM                最新版本號：v6.41
+https://mirror2.internetdownloadmanager.com/idman641build2.exe?v=lt&filename=idman641build2.exe
 
 ;名稱：aria2                     最新版本號：1.36.0                           更新時間：2021-8-21
 32位
