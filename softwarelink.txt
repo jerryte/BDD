@@ -1,5 +1,5 @@
-;  文本最後編輯日期：2022-7-8
-；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號和更新時間來決定是否需要下載
+;  文本最後編輯日期：2022-8-11
+；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號來決定是否需要下載
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
 
@@ -21,22 +21,22 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-;名稱：v2rayN                           最新版本號：5.29                    更新時間：2022-7-3
-https://github.com/2dust/v2rayN/releases/download/5.29/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.32                    更新時間：2022-8-5
+https://github.com/2dust/v2rayN/releases/download/5.32/v2rayN.zip
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.23            更新時間：2022-7-1
+;名稱：Clash.for.Windows          最新版本號：v 0.19.26            更新時間：2022-8-4
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.23/Clash.for.Windows-0.19.23-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.26/Clash.for.Windows-0.19.26-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.23/Clash.for.Windows-0.19.23-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.26/Clash.for.Windows-0.19.26-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.23_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.26_CN/app.7z
 
-;名稱：naiveproxy             最新版本號：v103.0.5060.53-3          更新時間：2022-7-1
+;名稱：naiveproxy             最新版本號：v104.0.5112.79-2          更新時間：2022-8-6
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-3/naiveproxy-v103.0.5060.53-3-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v104.0.5112.79-2/naiveproxy-v104.0.5112.79-2-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v103.0.5060.53-3/naiveproxy-v103.0.5060.53-3-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v104.0.5112.79-2/naiveproxy-v104.0.5112.79-2-win-x64.zip
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
 32位
@@ -107,7 +107,7 @@ https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.e
 
 ;=========================================  應用軟件  =========================================
 
-;名稱：GPG4win            最新版本號：4.0.2                  更新時間：2022-4-26
+;名稱：GPG4win            最新版本號：4.0.3                  更新時間：2022-7-12
 https://files.gpg4win.org/gpg4win-4.0.2.exe
 
 ;名稱：KeePass              最新版本號：2.51.1                更新時間：2022-5-10
@@ -116,8 +116,8 @@ https://versaweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51.1/KeePass-2
 ;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
 https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt Setup 1.25.9.exe
 
-;名稱：7-Zip                   最新版本號：22.00                 更新時間：2022-6-15
+;名稱：7-Zip                   最新版本號：22.01                 更新時間：2022-7-15
 32位
-https://7-zip.org/a/7z2200.exe
+https://7-zip.org/a/7z2201.exe
 64位
-https://7-zip.org/a/7z2200-x64.exe
+https://7-zip.org/a/7z2201-x64.exe
