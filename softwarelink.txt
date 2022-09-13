@@ -1,19 +1,19 @@
-;  文本最後編輯日期：2022-8-11
+;  文本最後編輯日期：2022-9-14
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號來決定是否需要下載
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
 
-;名稱：tor內核                 最新版本號：0.4.7.8                        更新時間：2022-6-30
+;名稱：tor內核                 最新版本號：0.4.7.10                        更新時間：2022-8-24
 32位
-https://dist.torproject.org/torbrowser/11.0.15/tor-win32-0.4.7.8.zip
+https://dist.torproject.org/torbrowser/11.5.2/tor-win32-0.4.7.10.zip
 64位
-https://dist.torproject.org/torbrowser/11.0.15/tor-win64-0.4.7.8.zip
+https://dist.torproject.org/torbrowser/11.5.2/tor-win64-0.4.7.10.zip
 
-;名稱：v2ray-core                    最新版本號：v4.45.2                更新時間：2022-6-12
+;名稱：v2ray-core                    最新版本號：v5.1.0                更新時間：2022-9-6
 32位
-https://github.com/v2fly/v2ray-core/releases/download/v4.45.2/v2ray-windows-32.zip
+https://github.com/v2fly/v2ray-core/releases/download/v5.1.0/v2ray-windows-32.zip
 64位
-https://github.com/v2fly/v2ray-core/releases/download/v4.45.2/v2ray-windows-64.zip
+https://github.com/v2fly/v2ray-core/releases/download/v5.1.0/v2ray-windows-64.zip
 
 ;名稱：Xray-core                      最新版本號：v1.5.5                  更新時間：2022-4-24
 32位
@@ -21,22 +21,22 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-;名稱：v2rayN                           最新版本號：5.32                    更新時間：2022-8-5
-https://github.com/2dust/v2rayN/releases/download/5.32/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.34                    更新時間：2022-8-18
+https://github.com/2dust/v2rayN/releases/download/5.34/v2rayN.zip
 
-;名稱：Clash.for.Windows          最新版本號：v 0.19.26            更新時間：2022-8-4
+;名稱：Clash.for.Windows          最新版本號：v 0.20.2            更新時間：2022-9-10
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.26/Clash.for.Windows-0.19.26-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.2/Clash.for.Windows-0.20.2-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.26/Clash.for.Windows-0.19.26-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.2/Clash.for.Windows-0.20.2-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.26_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.2_CN/app.7z
 
-;名稱：naiveproxy             最新版本號：v104.0.5112.79-2          更新時間：2022-8-6
+;名稱：naiveproxy             最新版本號：v105.0.5195.52-1          更新時間：2022-9-2
 32位
-https://github.com/klzgrad/naiveproxy/releases/download/v104.0.5112.79-2/naiveproxy-v104.0.5112.79-2-win-x86.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v105.0.5195.52-1/naiveproxy-v105.0.5195.52-1-win-x86.zip
 64位
-https://github.com/klzgrad/naiveproxy/releases/download/v104.0.5112.79-2/naiveproxy-v104.0.5112.79-2-win-x64.zip
+https://github.com/klzgrad/naiveproxy/releases/download/v105.0.5195.52-1/naiveproxy-v105.0.5195.52-1-win-x64.zip
 
 ;名稱：trojan-go               最新版本號：v0.10.6                         更新時間：2021-9-14
 32位
@@ -50,11 +50,11 @@ https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3
 64位
 https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x64.zip
 
-;名稱：gost                      最新版本號：v2.11.2                更新時間：2022-4-7
+;名稱：gost                      最新版本號：v2.11.4                更新時間：2022-9-3
 32位
-https://github.com/ginuerzh/gost/releases/download/v2.11.2/gost-windows-386-2.11.2.zip
+https://github.com/ginuerzh/gost/releases/download/v2.11.4/gost-windows-386-2.11.4.zip
 64位
-https://github.com/ginuerzh/gost/releases/download/v2.11.2/gost-windows-amd64-2.11.2.zip
+https://github.com/ginuerzh/gost/releases/download/v2.11.4/gost-windows-amd64-2.11.4.zip
 
 ;名稱：Privoxy                   最新版本號：3.0.33                           更新時間：2021-12-8
 https://www.privoxy.org/sf-download-mirror/Win32/3.0.33 (stable)/privoxy_3.0.33.zip
@@ -76,7 +76,7 @@ https://dl.bitvise.com/BvSshClient-Inst.exe
 
 ;++++++++++++++++++++++++++++++++++++++++  下載工具  ++++++++++++++++++++++++++++++++++++++++
 
-;名稱：FDM                最新版本號：v6.16.2
+;名稱：FDM                最新版本號：v6.17.0
 32位
 https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe
 64位
