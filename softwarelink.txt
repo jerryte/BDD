@@ -1,4 +1,4 @@
-;  文本最後編輯日期：2022-9-14
+;  文本最後編輯日期：2022-10-12
 ；以下僅列出處於更新中的最新穩定版本的FQ軟件鏈接，请根据軟件版本號來決定是否需要下載
 
 ;------------------------------------------------------------------------  代理軟件  ------------------------------------------------------------------------
@@ -21,18 +21,18 @@ https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-32.zip
 64位
 https://github.com/XTLS/Xray-core/releases/download/v1.5.5/Xray-windows-64.zip
 
-;名稱：v2rayN                           最新版本號：5.34                    更新時間：2022-8-18
-https://github.com/2dust/v2rayN/releases/download/5.34/v2rayN.zip
+;名稱：v2rayN                           最新版本號：5.36                    更新時間：2022-9-20
+https://github.com/2dust/v2rayN/releases/download/5.36/v2rayN.zip
 
-;名稱：Clash.for.Windows          最新版本號：v 0.20.2            更新時間：2022-9-10
+;名稱：Clash.for.Windows          最新版本號：v 0.20.5            更新時間：2022-9-30
 32位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.2/Clash.for.Windows-0.20.2-ia32-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows-0.20.5-ia32-win.7z
 64位
-https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.2/Clash.for.Windows-0.20.2-win.7z
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows-0.20.5-win.7z
 中文翻譯包
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.2_CN/app.7z
+https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.5_CN/app.7z
 
-;名稱：naiveproxy             最新版本號：v105.0.5195.52-1          更新時間：2022-9-2
+;名稱：naiveproxy             最新版本號：v105.0.5195.52-1          更新時間：2022-10-1
 32位
 https://github.com/klzgrad/naiveproxy/releases/download/v105.0.5195.52-1/naiveproxy-v105.0.5195.52-1-win-x86.zip
 64位
@@ -110,8 +110,8 @@ https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.e
 ;名稱：GPG4win            最新版本號：4.0.3                  更新時間：2022-7-12
 https://files.gpg4win.org/gpg4win-4.0.2.exe
 
-;名稱：KeePass              最新版本號：2.51.1                更新時間：2022-5-10
-https://versaweb.dl.sourceforge.net/project/keepass/KeePass 2.x/2.51.1/KeePass-2.51.1.zip
+;名稱：KeePass              最新版本號：2.52                更新時間：2022-9-21
+https://jaist.dl.sourceforge.net/project/keepass/KeePass%202.x/2.52/KeePass-2.52.zip
 
 ;名稱：veracrypt            最新版本號：v1.25.9               更新時間：2022-2-19
 https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt Setup 1.25.9.exe
